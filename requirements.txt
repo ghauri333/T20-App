@@ -1,6 +1,6 @@
-numpy==1.26.4
-pandas==2.2.2
-Pillow==10.1.0
-streamlit==1.32.0
-xgboost==2.0.3
+numpy
+pandas
+Pillow
+streamlit
+xgboost
 sklearn 
