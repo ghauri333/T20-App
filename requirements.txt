@@ -3,4 +3,4 @@ pandas
 Pillow
 streamlit
 xgboost
-sklearn 
+scikit-learn
